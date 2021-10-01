@@ -1,1 +1,2 @@
-# Inventory_Manager(Multitenant)
+# Alien Invasion
+This game was built with python and pygame
